@@ -1,0 +1,7 @@
+{
+  "name": "ParkKaro",
+  "description": "Industrial & commercial vehicle parking utility connecting drivers to secure yards, with lot owner management and fleet booking.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
